@@ -1,1 +1,1 @@
-console.log('abcdefghijklmnabc');
+var a='abc';
