@@ -1,1 +1,1 @@
-var a='abcabc';
+var a='abcdef';
